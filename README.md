@@ -1,5 +1,6 @@
-<img width="1697" height="950" alt="Screenshot 2026-07-02 135528" src="https://github.com/user-attachments/assets/639174a5-e1ea-4254-a2ee-3f2d4805859a" />
 # Windows-Server-2025-Lab
+****
+Vitual Machine running Windows Server 2025
 <img width="1695" height="961" alt="Screenshot 2026-07-02 132504" src="https://github.com/user-attachments/assets/164c54c4-fa71-42df-a224-f0905b9be58a" />
 <img width="1132" height="642" alt="Recording 2026-07-03 145506" src="https://github.com/user-attachments/assets/73bc68b6-1e0a-42c7-b319-7a93bdc944c5" />
 
