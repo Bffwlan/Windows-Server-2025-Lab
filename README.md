@@ -13,22 +13,22 @@ The goal of this home lab was to move beyond theoretical concepts and actively c
 
 ---
 
-## 🛠️ Core Services Managed
+##  Core Services Managed
 
-* 🔐 **Active Directory (AD DS):** Centralized identity management, domain controller configuration, and user/group administration.
-* 🌐 **DNS Zone Management:** Forward and reverse lookup zones for seamless internal name resolution.
-* 💾 **Storage Services:** Local storage provisioning and volume management.
-* 📡 **DHCP Server Deployment:** Automated, scoped IP address allocation for client nodes.
+*  **Active Directory (AD DS):** Centralized identity management, domain controller configuration, and user/group administration.
+*  **DNS Zone Management:** Forward and reverse lookup zones for seamless internal name resolution.
+*  **Storage Services:** Local storage provisioning and volume management.
+*  **DHCP Server Deployment:** Automated, scoped IP address allocation for client nodes.
 
 ---
 
-## 📸 Lab Environment & Monitoring
+##  Lab Environment & Monitoring
 
 <p align="center">
   <img width="100%" alt="Active Directory and DNS Management Dashboard" src="https://github.com/user-attachments/assets/164c54c4-fa71-42df-a224-f0905b9be58a" />
 </p>
 
-### Service Operations & Real-Time Logs
+### 
 
 <p align="center">
   <img width="49%" alt="DHCP and Scope Configuration" src="https://github.com/user-attachments/assets/73bc68b6-1e0a-42c7-b319-7a93bdc944c5" />
