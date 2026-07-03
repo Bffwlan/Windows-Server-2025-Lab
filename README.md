@@ -1,4 +1,4 @@
-# WindowsServer2025Lab
+# Windows Server 2025 Lab
 
 ****
 Vitual Machine running Windows Server 2025
